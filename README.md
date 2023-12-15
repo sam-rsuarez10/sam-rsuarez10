@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal small projects<br>👯 I’m looking to collaborate on back-end projects<br>🤝 I’m looking for help with gaining experience and learn design patterns<br>🌱 I’m currently learning full-stack development and studying CS<br>⚡ I like to play soccer and skate
+🔭 I’m currently working on personal small projects<br>👯 I’m looking to collaborate on back-end projects<br>🤝 I’m looking for help with gaining experience and learn design patterns<br>🌱 I’m currently learning full-stack development and studying CS<br>⚡ I like to play soccer, basket and skate
 
 
 ## 🌐 Socials:
